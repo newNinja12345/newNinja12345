@@ -8,8 +8,6 @@
         <li>Hey there, I am <strong>Mengistu Desta</strong></li>
         <li>I’m a <em>Full-Stack Engineer</em></li>
         <li> I specialize in <strong>MERN Stack and Java</strong></li>
-        </li>
-        <li></li>
       </ul>
       <h4>Connect with me:</h4>
       <a href="mailto:mengistudesta05@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
@@ -18,4 +16,3 @@
     </td>
   </tr>
 </table>
-
