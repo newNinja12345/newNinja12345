@@ -11,7 +11,7 @@
       </ul>
       <h4>Connect with me:</h4>
       <a href="mailto:mengistudesta05@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
-      <a href="https://github.com/newNinja12345"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
+      <a href="https://mengistu-portifolio.vercel.app/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
       <a href="https://www.linkedin.com/in/mengistudesta/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
     </td>
   </tr>
